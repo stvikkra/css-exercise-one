@@ -1,6 +1,9 @@
-body
+body {
   font-size: 14px;
 }
+
+/* nav background color
+does not show */
 
 nav {
   background color: yellow;
@@ -8,6 +11,7 @@ nav {
   margin-top: -10px;
   position: fixed;
   width: 100%;
+}
 
 
 section {
@@ -20,7 +24,7 @@ h1 {
   font-size: 2em;
 }
 
-.example, h3 {
+.example h3 {
   padding-top: 30px;
   text-align center
 }
@@ -34,3 +38,13 @@ h3 {
   height: 100px;
   margin 10px 0;
   width: 100%;
+}
+
+/* Last three div's changed to blue */git 
+
+.element-end-page {
+  background-color: blue;
+  height: 100px;
+  margin 10px 0;
+  width: 100%;
+}
