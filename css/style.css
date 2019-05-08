@@ -8,15 +8,16 @@ does not show */
 nav {
   background color: yellow;
   height: 100px;
-  margin-top: -10px;
+  margin-top: -50px;
   position: fixed;
   width: 100%;
 }
 
-
 section {
-  margin: 0 auto;
-  width: 60%;
+  margin-top: 100px;
+  margin-left: 50px;
+  text-align: center;
+  width: 100px;
 }
 
 h1 {
@@ -36,15 +37,15 @@ h3 {
 .element {
   background-color: green;
   height: 100px;
-  margin 10px 0;
+  margin: 10px 0;
   width: 100%;
 }
 
-/* Last three div's changed to blue */git 
+/* Last three div's changed to blue */
 
 .element-end-page {
   background-color: blue;
   height: 100px;
-  margin 10px 0;
+  margin: 10px 0;
   width: 100%;
 }
