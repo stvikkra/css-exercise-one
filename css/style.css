@@ -10,10 +10,10 @@ nav {
 }
 
 section {
-  margin-left: 50px;
+  margin: 0 auto;
   padding-top: 115px;
   text-align: center;
-  width: 100px;
+  width: 60%;
 }
 
 h1 {
